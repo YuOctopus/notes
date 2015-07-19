@@ -36,3 +36,15 @@ Python标准库中包含有用于日期（date）和时间（time）数据的数
 > * 使用str或strftime可以将datetime和pandas的Timestamp转化为字符串，使用方法为str(a)或a.strftime('%Y-%m-%d')，第一个为
 将datetime全部转化为字符串，第二个只转化年月日。
 > * datetime.strptime可以将这些格式化编码将字符串转化为日期
+####3. 编码和解码coding和encoding，
+使用drop进行删除，
+将list数据转换为DataFrame直接使用DataFrame，
+使用counts函数进行计数。
+loc函数是什么意思
+xrange是什么意思。
+iloc是什么意思
+isnan函数
+查找重复的数据使用的函数
+.gz文件
+ExcelFile读出来的是标签号
+to Excel 设置
